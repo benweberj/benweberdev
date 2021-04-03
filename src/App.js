@@ -1,4 +1,4 @@
-import Sketches from './Sketches'
+import Sketches from './sketches/gallery'
 
 function App() {
   return (
